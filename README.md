@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sam-james
-- 👀 I’m interested in ... *AR and AI + general metaverse
-+prolong/preserve human consciousness
+- 👀 I’m interested in ... *AR and AI +prolonging/preserving/expanding & understanding human consciousness
 
 *Sustainability, alt. travel (super-pedestrians)
 
@@ -9,7 +8,7 @@
 *Gig economies
 +the future of building cities
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning AGI, product development and design principles
 
 - 💞️ I’m looking to collaborate on ...
 
